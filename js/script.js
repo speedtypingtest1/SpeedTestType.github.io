@@ -16,7 +16,7 @@ function loadParagraph() {
     const ranIndex = Math.floor(Math.random() * paragraphs.length);
     typingText.innerHTML = "";
     paragraphs[ranIndex].split("").forEach(char => {
-        let span = '<span>' + char + '</span>';
+        let span = <span>${char}</span>
         typingText.innerHTML += span;
     });
     typingText.querySelectorAll("span")[0].classList.add("active");
