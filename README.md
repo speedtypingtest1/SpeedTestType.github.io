@@ -1,1 +1,0 @@
-# SpeedTestType.github.io
