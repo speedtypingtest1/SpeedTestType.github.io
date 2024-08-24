@@ -35,4 +35,4 @@
     "The ineffable beauty of the ephemeral aurora borealis painted the polar firmament with a melange of iridescent hues, captivating the hearts of stargazers with its ethereal and enchanting dance. The resplendent peacock, adorned with a myriad of luminescent plumage, strutted with regal elegance, its iridescent feathers reflecting the prismatic spectrum of colors in the sun's effulgent rays. Amidst the verdant splendor of the rainforest, the vibrant plumage of exotic birds becomes a kaleidoscope of hues.",
     "In the clandestine laboratory, alchemical concoctions bubbled and hissed, as the alchemists pursued the elusive philosopher's stone, believing it held the key to transmuting base metals into precious aurum. The enigmatic detective deciphered the cryptic clues with uncanny acumen, his perspicacious gaze penetrating the veil of mystery, unraveling the clandestine machinations of the malevolent villain.  One cannot disregard the symbolism, where transformation is a testament to life's perpetual change.",
 ];
-];
+
